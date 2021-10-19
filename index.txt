@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>My First Heading</h1>
+
+<p>My first paragraph.</p>
+
+<select name="character" id="character">
+  <option value="c">Choose character</option>
+  <option value="x">Xinquiu</option>
+  <option value="b">Baal</option>
+  <option value="k">Kaeya</option>
+  <option value="n">Ningguang</option> 
+</select>
+
+<select name="weapon" id="weapon">
+  <option value="c">Choose weapon</option>
+  <option value="s">Sword</option>
+  <option value="b">Bow</option>
+  <option value="cl">Claymore</option>
+  <option value="ca">Catalyst</option> 
+</select>
+
+<select name="artifact1" id="artifact1">
+  <option value="r">Rojo</option>
+  <option value="a">Azul</option>
+  <option value="v">Verde</option>
+</select>
+
+</body>
+</html>
